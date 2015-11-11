@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: #eee;
+
+}
+
+h2{
+    margin-bottom: 50px;
+}
+
+#reset{
+    margin-top: 50px;
+    width: 200px;
+}
+
+#firstRow div{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    background: #d5d5c0;
+    width: 155px;
+    height: 255px;
+    padding: 0;
+}
+
+#secondRow div{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    background: #d5d5c0;
+    width: 165px;
+    height: 255px;
+}
+
+ div img{
+    width: 150px;
+    height:250px;
+   
+    display: none;
+}
+
+
+.badge{
+    background-color:aliceblue;
+    color: black;
+    font-size: 18px;
+}
